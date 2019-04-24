@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.069,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.321,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.04.24 17:24:10.579,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.04.24 17:24:10.694,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.04.24 17:30:43.798,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.04.24 17:34:57.906,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2019.04.24 17:37:02.211,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit1.h=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.04.24 17:37:02.211,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit1.dfm=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.04.24 17:37:02.211,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit1.cpp=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.04.24 17:37:03.222,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit3.h=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>2019.04.24 17:37:03.222,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit3.cpp=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2019.04.24 17:37:03.222,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit3.dfm=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019.04.24 17:37:04.233,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit2.cpp=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.04.24 17:37:04.233,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit2.h=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2019.04.24 17:37:04.233,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit2.dfm=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019.04.24 17:37:05.157,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Project1PCH1.h=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.04.24 17:37:06.161,C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Project1.cbproj=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2019.04.24 17:41:25.742,=C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit4.cpp</Transaction>
+    <Transaction>2019.04.24 18:26:17.343,=C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit5.cpp</Transaction>
+    <Transaction>2019.04.24 18:58:43.930,=C:\Users\Ka\Desktop\baza_semestr_4_(2)\Materiały Do Wysłania\Programowanie Baz Danych C++\Sprawdziany\Sprawdzian 1\PROGRAM\Unit6.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
